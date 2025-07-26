@@ -7,7 +7,7 @@ def main():
     #Introduce the game
     print("The Drive to a Lost Home")
     
-    print("A story game made by Brian, Jeremiah, Preston")
+    print("A story game made by Brian, Jeremiah")
 
     #Introducing and naming player and partner
     player_name = input("What is your player name ")
